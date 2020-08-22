@@ -1,0 +1,28 @@
+{
+  "videos" : {
+    "1dd4a785fdd626b8d9339c3e4e4e52cac8b39acf" : {
+      "source" : "https://github.com/ACloudGuru/misc-serverless-workshop-videos/blob/master/bridge.mov?raw=true",
+      "transcoding" : false
+    },
+    "29afea76b837be052d6013ef05becc6d3f25237b" : {
+      "source" : "https://github.com/ACloudGuru/misc-serverless-workshop-videos/blob/master/death-valley.mov?raw=true",
+      "transcoding" : false
+    },
+    "ba8d43c22f03306a78853d74b9c0b7d2c4c2bdba" : {
+      "source" : "https://github.com/ACloudGuru/misc-serverless-workshop-videos/blob/master/dog.mov?raw=true",
+      "transcoding" : false
+    },
+    "c38dd499afa1666b77de41a73b22b3d9d27952c2" : {
+      "source" : "https://github.com/ACloudGuru/misc-serverless-workshop-videos/blob/master/mirage.mov?raw=true",
+      "transcoding" : false
+    },
+    "eea1537dd67a308e17f20b840b6eb5724d1635c0" : {
+      "source" : "https://github.com/ACloudGuru/misc-serverless-workshop-videos/blob/master/stream.mov?raw=true",
+      "transcoding" : false
+    },
+    "fe86876b474f28652b4e1f483abe50b04653efb2" : {
+      "source" : "https://github.com/ACloudGuru/misc-serverless-workshop-videos/blob/master/snow-ball.mov?raw=true",
+      "transcoding" : false
+    }
+  }
+}
