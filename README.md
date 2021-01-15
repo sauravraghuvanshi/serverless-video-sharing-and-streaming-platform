@@ -1,4 +1,4 @@
-# serverless video sharing and streaming platform
+# Serverless video sharing and streaming platform
 
 In this project, we build a completely serverless video sharing web-site, complete with:
 
