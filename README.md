@@ -1,6 +1,6 @@
-# A Cloud Guru: Serverless Workshop
+# serverless video sharing and streaming platform
 
-In this workshop, we build a completely serverless video sharing web-site, complete with:
+In this project, we build a completely serverless video sharing web-site, complete with:
 
  - User authentication
  - Large file video uploads
@@ -8,7 +8,7 @@ In this workshop, we build a completely serverless video sharing web-site, compl
  - Push-based, event-driven updates to the web-site. Users see new videos automatically, no browser refreshes needed
  - The ability to play video files hosted on scalable cloud storage.
 
-## Lessons
+## Modules
 
 There are 5 lessons.
 
@@ -30,5 +30,5 @@ In this workshop you'll need to upload videos to the cloud. Since videos can be 
 
 [Download sample movie trailers](https://github.com/ACloudGuru/serverless-workshop/blob/master/sample-videos.zip)
 
-## Our Book
+## Book For the project
 [Serverless Architectures on AWS](https://www.manning.com/books/serverless-architectures-on-aws?a_aid=serverless-architectures-on-aws&a_bid=145280de) is our book that covers serverless architectures in more detail. It is a great companion to this course as it provides more depth to everything we have learnt today. It is recommended if you want to explore serverless architectures further.
