@@ -7,7 +7,7 @@
     "predeploy": "zip -r Lambda-Deployment.zip * -x *.zip *.json *.log"
   },
   "dependencies": {
-    "jsonwebtoken": "^5.7.0",
+    "jsonwebtoken": "^9.0.0",
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
   },
